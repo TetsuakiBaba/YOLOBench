@@ -11,7 +11,7 @@ YOLOBench uses Ultralytics' YOLOv8 as a backend. You need to install YOLOv8 firs
 
 ## Clone YOLOBench
 ```
-git clone 
+git clone https://github.com/TetsuakiBaba/YOLOBench.git
 ``` 
 
 ## Run YOLOBench
@@ -25,8 +25,8 @@ python3 benchmark.py
 ## yolov8
 | ARCH | CPU/GPU | n | s | m | l | x |
 | --- | --- | --- | --- | --- | --- | --- |
-| Apple M1 | CPU |  |  |  |  |  |
-| Apple M1 | GPU |  |  |  |  |  |
+| Apple M1 | CPU | 60.3 | 115.3 | 217.6 | 381.9 | 547.9 |
+| Apple M1 | GPU | 32.7 | 34.5 | 52.8 | 80.9 | 144.3 |
 | Apple M1 MAX  | CPU | 36.3 | 55.9 | 98.7 | 161.3 | 223.5 |
 | Apple M1 MAX  | GPU | 19.8 | 19.7 | 27.2 | 35.5 | 51.4 |
 | Apple M2  | CPU | 39.0 | 72.8 | 145.8 | 234.0 | 332.7 |
