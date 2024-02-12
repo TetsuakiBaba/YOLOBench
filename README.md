@@ -22,7 +22,7 @@ python3 benchmark.py
 
 # Benchmark Results
 
-## yolov8
+## yolov8 object detection inference
 | ARCH | CPU/GPU | n | s | m | l | x |
 | --- | --- | --- | --- | --- | --- | --- |
 | Apple M1 | CPU | 60.3 | 115.3 | 217.6 | 381.9 | 547.9 |
