@@ -34,4 +34,4 @@ dist/
 *.tmp
 .DS_Store
 
-yolov8*.pt
+*.pt
